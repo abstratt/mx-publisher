@@ -9,5 +9,6 @@ Basically:
 - tasks can be open, closed, or cancelled
 - users can comment on tasks
 - users can mark tasks as closed/cancelled
+- users can query tasks: completed today, by open date, opened today, mine, open, mine open
 
 
