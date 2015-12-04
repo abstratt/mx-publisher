@@ -1,4 +1,4 @@
-### Comparing the metamodels of Mendix and UML (as used in TextUML) 
+### Comparing the metamodels of Mendix and UML/TextUML/Cloudfier
 
 #### Activities vs. Microflows
 
