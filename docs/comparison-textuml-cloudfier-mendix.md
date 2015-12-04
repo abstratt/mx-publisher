@@ -1,8 +1,12 @@
 ### Comparing the metamodels of Mendix and UML (as used in TextUML) 
 
-#### Microflows vs. Activities
+#### Activities vs. Microflows
+
+Activities (UML) and microflows (Mendix) are quite similar, and provide the basic block of behavior that you can attach to models. 
 
 #### Actions
+
+Both UML and Mendix have actions, and they seem quite similar conceptually, even if the actual actions are different.
 
 ##### Object actions
 
@@ -17,3 +21,5 @@
 | transactions    | out of scope                                                   | CommitObject(s) RollbackObject(s) | Cloudfier: commit happens at end of block (or rollback, in case of error)  |
 
 ##### Collection actions
+
+TBD
