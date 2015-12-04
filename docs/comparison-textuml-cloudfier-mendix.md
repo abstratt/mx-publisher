@@ -14,7 +14,7 @@ Both UML and Mendix have actions, and they seem quite similar conceptually, even
 |-----------------|----------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------------|
 | object creation | CreateObject                                                   | CreateObject                      | Mendix: can initialize values on creation                                  |
 | object deletion | DestroyObject                                                  | DeleteObject(s)                   | Mendix: can delete multiple objects at once                                |
-| object updating | Add/Remove/CleanStructuralFeatureValueCreate/DestroyLinkAction | ChangeObject                      | Mendix: meant for existing objects UML: new and existing                   |
+| object updating | Add/Remove/CleanStructuralFeatureValueAction Create / DestroyLinkAction | ChangeObject                      | Mendix: meant for existing objects UML: new and existing                   |
 | casting         |                                                                | CastObject                        | TextUML: StructuredActivityNode marked w/ «Cast»                           |
 | traversal       | ReadLinkAction                                                 | Retrieve (association)            |                                                                            |
 | retrieval       | ReadExtentAction (all instances)                               | Retrieve (from DB)                | Mendix: one, all, block TextUML: see collection actions                    |
