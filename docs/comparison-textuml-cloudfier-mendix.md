@@ -11,7 +11,7 @@ Both UML and Mendix have actions, and they seem quite similar conceptually, even
 ##### Object actions
 
 Sources:
-- Mendix [documentation](https://world.mendix.com/display/refguide6/Object+Activities).
+- Mendix [documentation for object actions](https://world.mendix.com/display/refguide6/Object+Activities).
 
 | Feature         | UML                                                            | Mendix                            | Notes                                                                      |
 |-----------------|----------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------------|
@@ -26,5 +26,5 @@ Sources:
 ##### Collection actions
 
 * TextUML/Cloudfier: see [mdd_collections.tuml](https://github.com/abstratt/textuml/blob/master/plugins/com.abstratt.mdd.core/models/libraries/mdd_collections.tuml)
-* Mendix: see [documentation](https://world.mendix.com/display/refguide6/Action+Call+Activities).
+* Mendix: see [documentation for list actions](https://world.mendix.com/display/refguide6/List+Activities).
 
